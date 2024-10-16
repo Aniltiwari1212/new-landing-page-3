@@ -1,0 +1,514 @@
+@media(max-width:1199.98px){
+    .banner-left h1{
+        font-size: 46px;
+    }
+    .banner-left p {
+        color: rgba(224, 229, 243, 1);
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 30px;
+    }
+    .banner {
+        padding: 160px 14px 70px;
+    }
+    .bnr-right {
+        width: 100%;
+        padding-left:0px;
+        position: relative;
+        margin-left: 0px;
+    }
+    nav.navbar.navbar-expand-lg.navbar-light {
+        padding: 0 60px;
+    }
+    .header_sec .nav-item:not(:last-child) {
+        margin-right: 38px;
+    }
+
+    .why-choose:before {
+        position: absolute;
+        content: " ";
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(255, 201, 62, 1);
+        width: 35%;
+    }
+ 
+   
+}
+
+@media(max-width:991.98px){
+   
+    .banner-left h1 {
+        font-size: 40px;
+    }
+    .banner-left p{
+        font-size: 16px;
+    }
+    .bnr-right{
+        margin-left: 0;
+    }
+    .about-detail h2{
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .about-detail p{
+        font-size: 16px;
+        line-height: 28px;
+        margin-top: 14px;
+    }
+    .choose-rightBox h2 {
+        font-size: 42px;
+        line-height: 35px;
+    }
+    .about-detail .blue-btn{
+        padding: 14px 25px;
+    }
+    .elevate-btn .white-btn{
+        padding: 16px 22px;
+    }
+    .detail-txt h4 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .elevate-btn {
+        margin-top: 24px;
+    }
+    .detail-txt p {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 22px;
+    }
+    .our-services .srvs-heading {
+        color: #fff;
+        font-size: 46px;
+        font-weight: 700;
+        text-align: center;
+        line-height: 58px;
+        max-width: 451px;
+        margin: 0 auto;
+    }
+    .our-services .srvc-box {
+        padding: 25px;
+        text-align: center;
+    }
+    .our-services .row .col-lg-4:not(:last-child) {
+        border-right:none;
+    }
+    .our-services .row:not(:last-child) {
+        border-bottom:none;
+    }
+    .social-media{
+        padding: 90px 0;
+    }
+    .marquee__text {
+        font-size: 115px
+    }
+    .marq-img {
+        position: absolute;
+        top: 0;
+        left: 20%;
+        right: 0;
+        bottom: 0;
+        max-width: 495px;
+    }
+    .elevate-left h2 {
+        font-size: 50px;
+        line-height: 68px;
+        max-width: 500px;
+    }
+    .elevate-right p {
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 26px;
+    }
+    .test-heading {
+        font-size: 44px;
+        line-height: 60px;
+        text-align: center;
+    }
+    .testimonials .item h3 {
+        font-size: 22px;
+        text-align: center;
+    }
+    .testimonials .item p {
+        font-size: 16px;
+        line-height: 27px;
+        text-align: center;
+    }
+    .test-txt h6 {
+        line-height: 18px;
+    }
+    .discuss-left {
+        font-size: 32px;
+        line-height: 44px;
+    }
+    .footer-sec .col-md-4 {
+        margin-top: 56px;
+    }
+    .footer-icon {
+        text-align: center;
+    }
+    .ftr-mainBox p {
+        max-width: 600px;
+        justify-content: center;
+        margin: 0 auto;
+    }
+    .social-icons{
+        justify-content: center;
+    }
+    .menu-btn {
+        text-align: center;
+        margin-top: 30px;
+    }
+    .header_sec .navbar-light .navbar-nav .nav-link {
+        border-bottom: 2px solid #ccc;
+        padding: 10px 0;
+    }
+    .menu-btn .blue-btn{
+        display: block;
+    }
+    .header_sec .nav-item:not(:last-child) {
+        margin-right:0px;
+    }
+    .marquee .marquee__text {
+        font-size: 100px;
+    }
+    .create-left .srvs-heading {
+        margin: 0 auto;
+    }
+    .srvc-box {
+        padding: 25px;
+        text-align: center;
+    }
+    .create-left {
+        text-align: center;
+    }
+    nav.navbar.navbar-expand-lg.navbar-light {
+         padding: 0 0px;
+    }
+    .create-right {
+        margin-top: 30px;
+    }
+    .buy-left .srvs-heading{
+        max-width: 800px;
+        text-align: center;
+    }
+    .buy-list li{
+        display: inline-block;
+        margin-left: 40px;
+    }
+    .platform-img{
+        text-align: center;
+    }
+    .process-top p{
+        font-size: 16px !important;
+        line-height: 24px !important;
+    }
+    .bottom-process-txt p {
+        color: #fff;
+        font-size: 14px;
+    }
+    .perform-head{
+        font-size: 34px;
+    }
+    .our-performance p{
+        font-size: 22px;
+    }
+    .performance-box {
+        margin-bottom: 24px;
+    }
+}
+@media(min-width:768px){
+    .discuss-btn {
+        text-align: right;
+    }
+}
+@media(min-width:1200px){
+    .quick-links {
+        padding-left:55px;
+    }
+}
+@media(max-width:767.98px){
+    nav.navbar.navbar-expand-lg.navbar-light {
+        padding:0;
+    }
+    .banner-left h1 {
+        font-size: 42px;
+        line-height: 1.2;
+    }
+    .banner-left {
+        text-align: center;
+    }
+    .gray-btn{
+        margin-left: 8px;
+    }
+    .about-us{
+        padding: 0;
+    }
+
+    .bnr-right {
+        display: none;
+    }
+    .about-detail h2 {
+        font-size: 36px;
+        line-height: 46px;
+        margin-top: 40px;
+        text-align: center;
+    }
+    .about-detail p {
+        text-align: center;
+    }
+    .learn-more {
+        text-align: center;
+    }
+    .statistics-card {
+        width: 100%;
+        height: auto;
+        align-items: center;
+        margin-bottom: 35px;
+    }
+    .cate_box{
+        padding-right: 0;
+    }
+    .statistics-container {
+        display: block;
+    }
+    .why-choose:before {
+        background:none;
+    }
+    .choose-rightBox h2 {
+        font-size: 42px;
+        line-height: 35px;
+        margin-top: 34px;
+        text-align: center;
+    }
+    .our-services .srvs-heading{
+        font-size: 40px;
+        line-height: 52px;
+    }
+    .offer_tab .nav-item:not(:last-child) {
+        margin-right: 10px;
+    }
+    .cate_sec .head_box .sec_head{
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .elevate-left h2 {
+        font-size: 42px;
+        line-height: 50px;
+        max-width: 500px;
+        text-align: center;
+        font-weight: 700;
+    }
+    .elevate-right p{
+        text-align: center;
+    }
+    .elevate-btn {
+        margin-top: 38px;
+        text-align: center;
+    }
+    .main-testiBox {
+        padding: 28px 10px;
+        border-radius: 18px;
+    }
+
+    .testimonials .item h3 {
+        font-size: 18px;
+        text-align: center;
+        line-height: 15px;
+        margin-bottom: 12px;
+    }
+    .main-testiBox h3 i {
+        color: #595a5a;
+        font-size: 26px;
+    }
+    .arrow_slide .owl-nav button.owl-prev {
+        left:0;
+    }
+    .arrow_slide .owl-nav button.owl-next {
+        right: 0;
+    }
+    .testimonials .item p{
+        font-size: 14px;
+    }
+    .test-txt h6 {
+        line-height: 18px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .test-txt small {
+        font-size: 12px;
+        line-height: 10px;
+        text-align: left;
+    }
+    .ratings i{
+        font-size: 14px;
+    }
+    .test-heading {
+        font-size: 30px;
+        line-height: 46px;
+        text-align: left;
+    }
+    .blog_box{
+        display: inline-block;
+        text-align: center;
+    }
+    .blog_img {
+        max-width: 100%;
+    }
+    .blogSlider .owl-nav button, .arrow_slide .owl-nav button {
+        width: 30px;
+        height: 30px;
+        background: #EABB04 !important;
+        opacity: inherit;
+        border-radius: 6px;
+        font-size: 18px !important;
+    }
+    .ftr-mainBox {
+        margin-top: 22px;
+        text-align: center;
+    }
+    .footer-sec{
+        padding: 45px 0 18px 0;
+    }
+    .about-detail p{
+        margin-top: 15px;
+    }
+    .main-testiBox{
+        border-radius:0;
+    }
+    .quick-links li a {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .quick-links h4{
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .copyright{
+        padding-top: 20px;
+    }
+    .copyright p {
+        text-align: center;
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .social-media {
+        padding: 50px 0;
+    }
+    .marquee .marquee__text {
+            display: inline-block;
+            padding-left: 100%;
+            font-size: 70px;
+            font-weight: 800;
+            line-height: 95px;
+            text-transform: capitalize;
+            color: white;
+            animation: marquee-direction var(--_speed) linear infinite;
+        }
+        .elevate-brand .elevate-box{
+            padding: 45px 25px;
+        }
+        .elevate-brand{
+            padding: 0;
+        }
+        .blue-btn {
+            padding: 15px 26px;
+        }
+        .white-btn{
+            padding: 15px 18px 15px 26px;
+        }
+        .discuss-left{
+            text-align: center;
+        }
+        .about-detail .blue-btn{
+            padding: 14px 30px;
+        }
+        .create-left .srvs-heading {
+            max-width: 500px;
+            font-size: 40px;
+            line-height: 48px;
+        }
+        .cate_txt h4{
+            text-align: center;
+        }
+        .cate_txt p{
+            text-align: center;
+        }
+        .discuss-btn {
+            margin-top: 20px;
+        }
+        .logo_sec{
+            padding: 0;
+        }
+        .testimonials .test-heading{
+            font-size: 26px;
+            text-align: center;
+        }
+        .testimonials {
+            padding: 0 0 70px 0;
+        }
+        .buy-list li{
+            margin-left: 0;
+        }
+        .multi-head{
+            font-size: 38px;
+            line-height: 52px;
+        }
+        .faq .test-heading{
+            font-size: 24px;
+            line-height: 40px;
+            text-align:left;
+        }
+        .faq-content button.accordion-button{
+            font-size: 18px;
+        }
+        .faq-content .accordion-body p {
+            font-size: 14px;
+            line-height: 26px;
+        }
+        .perform-head {
+            font-size: 28px;
+            font-weight: 700;
+            line-height: 38px;
+        }
+    
+        .our-performance p {
+            font-size: 18px;
+            line-height: 26px;
+        }
+        .performance-box {
+            margin-bottom: 24px;
+            margin-left: 30px;
+        }
+        .multiple-platform .row>* {
+            flex-shrink: 0;
+            width: 50%;
+            max-width: 100%;
+        }
+        .we-create{
+            padding: 0;
+        }
+        .create-brief{
+            text-align: center;
+        }
+        .faq{
+            padding: 0 0 30px 0;
+        }
+        .discuss {
+            padding-top: 40px;
+        }
+        .mainmobileBox {
+            display:block;
+        }
+        .our-process .row{
+            display: none;
+        }
+        .our-process .multi-head {
+            font-size: 52px;
+            line-height: 52px;
+            font-weight: 700;
+        }
+}
